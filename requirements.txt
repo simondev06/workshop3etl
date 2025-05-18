@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+kafka-python
+sqlalchemy
+joblib
+python-dotenv
